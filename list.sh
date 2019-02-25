@@ -1,0 +1,7 @@
+captions_train-val2014.zip
+train2014_sample.zip
+train_img_embeds.pickle
+train_img_fns.pickle
+val2014_sample.zip
+val_img_embeds.pickle
+val_img_fns.pickle
