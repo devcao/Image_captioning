@@ -13,5 +13,5 @@ python train.py
 After training is done, 
 
 ```
-python visulize.py
+python visualize.py
 ```
